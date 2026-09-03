@@ -39,7 +39,8 @@ window.eaglercraftXOpts = {
 	],
 	servers: [
 		{ addr: "wss://d51schools.org.elephly.net/eagles/", name: "XenaMC / Unblocked for D51" },
-		{ addr: "wss://tuff.ws", name: "TuffNET" }	
+		{ addr: "wss://tuff.ws", name: "TuffNET" },
+		{ addr: "wss://top.bagelsmp.com", name: "BagelSMP (DONUTSMP)" }
 	]
 };
 
